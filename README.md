@@ -1,3 +1,5 @@
 # Learning Git
 
-This is my 1st project to learn git
+
+Learning how to make changes on git 
+
